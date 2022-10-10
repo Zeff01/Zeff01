@@ -9,6 +9,7 @@ I already have work experience doing web3 development and frontend development, 
 * 🌍  I'm based in Philippines
 * 🖥️  Portfolio coming soon...
 * ✉️  You can contact me at jzeffsomera@gmail.com
+* 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
 
