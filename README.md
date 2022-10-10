@@ -7,8 +7,8 @@ Aspiring Fullstack Blockchain Developer / FrontEnd Developer
 I am an IT Fresh Graduate currently looking for a job related to Developer/Software Engineer any related roles to utilize my skills and experience, willing to learn and willing to be trained. I have some knowledge in full stack development using MERN stack. I've gathered my skills by attending bootcamps and trainings and also watching from famous dev youtubers.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [https://portfolio-arwnchrstn.netlify.app/](https://portfolio-arwnchrstn.netlify.app/)
-* ✉️  You can contact me at [ceres703@gmail.com](mailto:ceres703@gmail.com)
+* 🖥️  Portfolio coming soon...
+* ✉️  You can contact me at [jzeffsomera@gmail.com]
 
 ### Skills
 
