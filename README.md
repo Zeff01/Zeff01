@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Fullstack Blockchain Developer / FrontEnd Developer
 ----------------------------------------------------------
 
-I already have work experience doing web3 development and frontend development, still looking for opportunities to utilize my skills and experience, would like to learn and trained more.
+I already have work experience doing web3 development and frontend development, I'm responsible for the design and construction of websites, Ensuring to meet user expectations by giving assurance that they look good, run smoothly and no errors. btw I'm still looking for opportunities to utilize my skills and experience to work in coding on a freelance basis.
+
 
 * 🌍  I'm based in Philippines
 * 🖥️  Portfolio coming soon...
