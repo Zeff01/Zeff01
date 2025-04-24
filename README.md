@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jzeff Kendrew Somera
 =============================================================================================================================================
 
-Aspiring Fullstack Blockchain Developer / FrontEnd Developer
+Fullstack Developer/ Blockchain Developer / AI Developer
 ----------------------------------------------------------
 
 I already have work experience doing web3 development and frontend development, I'm responsible for the design and construction of websites, Ensuring to meet user expectations by giving assurance that they look good, run smoothly and no errors. btw I'm still looking for opportunities to utilize my skills and experience to work in coding on a freelance basis.
